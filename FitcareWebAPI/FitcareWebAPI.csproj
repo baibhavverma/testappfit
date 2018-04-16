@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FitcareWebAPIModel\**" />
+    <Content Remove="FitcareWebAPIModel\**" />
+    <EmbeddedResource Remove="FitcareWebAPIModel\**" />
+    <None Remove="FitcareWebAPIModel\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="FitCareDbContext.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FitcareWebAPI.IServices\FitcareWebAPI.IServices.csproj" />
+    <ProjectReference Include="..\FitcareWebAPI.Model\FitcareWebAPI.Model.csproj" />
+    <ProjectReference Include="..\FitcareWebAPI.Services\FitcareWebAPI.Services.csproj" />
+  </ItemGroup>
+
+</Project>

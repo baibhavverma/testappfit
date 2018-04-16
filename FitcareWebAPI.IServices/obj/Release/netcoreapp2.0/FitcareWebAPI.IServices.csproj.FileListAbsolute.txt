@@ -1,0 +1,11 @@
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\bin\Release\netcoreapp2.0\FitcareWebAPI.IServices.deps.json
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\bin\Release\netcoreapp2.0\FitcareWebAPI.IServices.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\bin\Release\netcoreapp2.0\FitcareWebAPI.IServices.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\bin\Release\netcoreapp2.0\FitcareWebAPI.Model.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\bin\Release\netcoreapp2.0\FitcareWebAPI.Model.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.csprojResolveAssemblyReference.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.csproj.CoreCompileInputs.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.AssemblyInfoInputs.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.AssemblyInfo.cs
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI.IServices\obj\Release\netcoreapp2.0\FitcareWebAPI.IServices.pdb

@@ -1,0 +1,62 @@
+D:\FitcareWebAPI\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.deps.json
+D:\FitcareWebAPI\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.json
+D:\FitcareWebAPI\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.dev.json
+D:\FitcareWebAPI\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\FitcareWebAPI\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csprojResolveAssemblyReference.cache
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csproj.CoreCompileInputs.cache
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfoInputs.cache
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfo.cs
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\FitcareWebAPI\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.deps.json
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.json
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.dev.json
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csprojResolveAssemblyReference.cache
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csproj.CoreCompileInputs.cache
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfoInputs.cache
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfo.cs
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\Zarrar\Backup6March\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.dll
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.dll
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.pdb
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.pdb
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.dll
+D:\Zarrar\Backup6March\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.deps.json
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.json
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.dev.json
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.pdb
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csprojResolveAssemblyReference.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csproj.CoreCompileInputs.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfoInputs.cache
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfo.cs
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.dll
+D:\Zarrar\Fitcare Latest Code\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.deps.json
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.json
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.runtimeconfig.dev.json
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.dll
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.pdb
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.dll
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.dll
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.dll
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.IServices.pdb
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Model.pdb
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\bin\Debug\netcoreapp2.0\FitcareWebAPI.Services.pdb
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfoInputs.cache
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.AssemblyInfo.cs
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.dll
+C:\Users\Baibhavv\Desktop\Fitcare\FitcareWebAPI\obj\Debug\netcoreapp2.0\FitcareWebAPI.pdb
